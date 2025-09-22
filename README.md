@@ -106,6 +106,3 @@ Este projeto é básico e pode ser expandido com funcionalidades como:
 ## Licença
 
 Uso acadêmico.
-
-Quer que eu faça isso?
-```
